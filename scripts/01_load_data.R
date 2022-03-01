@@ -29,7 +29,6 @@ data_world_irrigated <- read.csv(unz("data/data_world_irrigated.zip",
 # Load shape already subsetted --------------------------------------------
 
 
-
 statewide_shape <- st_read("data/statewide_shape.shp")
 
 
