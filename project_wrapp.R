@@ -25,7 +25,8 @@ figure_1
 
 # Saving figure in tiff ---------------------------------------------------
 
-tiff("figures/figure_1.tiff", units="in", width=15, height=9, res=600)
+#change res = 600 for publication quality
+tiff("figures/figure_1.tiff", units="in", width=15, height=9, res= 100)
 
 figure_1
 
