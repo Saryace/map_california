@@ -32,5 +32,14 @@ figure_1
 
 dev.off()
 
+#jpg for github
+jpeg("figures/figure_1.jpg", units="in", width=15, height=9, res= 100)
+
+figure_1
+
+dev.off()
+
+
+
 
 
