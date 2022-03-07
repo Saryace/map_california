@@ -19,8 +19,5 @@ run project_wrapp.R file or run scripts in numerical order
 
 Notes: do not unzip files in folders
 
-
-![Alt text](/Saryace/map_california/figures/to/figure_1.tiff?raw=true "Optional Title")
-
-
+![Figure_1](https://github.com/Saryace/map_california/blob/master/figures/figure_1.tiff)
 
